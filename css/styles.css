@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster|PT+Sans+Narrow');
+
+
+.resume h2{
+  font-family: 'Lobster', cursive;
+}
+
+.resume h3{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.resume ul{
+  font-family: 'Anton', sans-serif;
+}
+
+.rsspan {
+  font-style: italic;
+  font-weight: bold;
+}
